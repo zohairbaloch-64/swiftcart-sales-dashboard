@@ -27,7 +27,7 @@ This project analyzes online retail sales data using Microsoft Excel and present
 * Women contribute the majority (64%) of sales.
 * Amazon is the leading sales channel. 35% order is from Amazone
 * Maharashtra generates the highest sales revenue.which is 2.99 million.
-* Most orders are successfully delivered.
+* 92% orders are successfully delivered.
 
 ## Dataset
 
