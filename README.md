@@ -62,6 +62,7 @@ Monthly sales trends indicate demand fluctuations throughout the year. The busin
 Different age groups show different purchasing patterns. Segment-specific marketing campaigns can improve customer engagement and sales performance.
 
 
+
 ## Dataset
 
 The project uses the SwiftCart Online Retail Sales Dataset containing customer, product, order, shipping, and sales information.
