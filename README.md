@@ -1,4 +1,4 @@
-# SwiftCart Sales Dashboard
+# SwiftCart Sales Excel Dashboard
 
 ## Project Overview
 
