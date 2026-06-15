@@ -1,78 +1,110 @@
-# SwiftCart Sales Excel Dashboard
+# 📊 SwiftCart Sales Analysis & Interactive Dashboard
 
 ## Project Overview
 
-This project analyzes online retail sales data using Microsoft Excel and presents key business insights through an interactive dashboard.
+This project analyzes online retail sales data from SwiftCart and transforms raw transactional data into actionable business insights using Microsoft Excel and exploratory data analysis techniques.
 
-## Tools Used
+The project includes:
+
+* Interactive Excel Dashboard
+* Sales Data Analysis Notebook
+* Business Insights & Recommendations
+* Retail Sales Dataset
+
+## Project Objectives
+
+The goal of this project was to:
+
+* Analyze customer purchasing behavior
+* Identify top-performing sales channels
+* Evaluate regional sales performance
+* Understand demographic trends
+* Build an interactive dashboard for decision-making
+
+## Tools & Technologies
 
 * Microsoft Excel
 * Pivot Tables
 * Pivot Charts
 * Slicers
 * Data Cleaning
-* Dashboard Design
+* Exploratory Data Analysis (EDA)
+* GitHub
+* Kaggle
 
 ## Dashboard Features
 
-* Monthly Sales Analysis
-* Order Status Distribution
+* Monthly Sales Trends
+* Order Status Analysis
 * Sales by Gender
-* Top Performing States
-* Sales Channel Analysis
-* Customer Age Group Analysis
+* Sales by Age Group
+* Sales by State
+* Sales Channel Performance
+* Interactive Filtering with Slicers
+
+## Data Analysis Notebook
+
+The notebook includes:
+
+* Dataset exploration
+* Data quality checks
+* Descriptive statistics
+* Sales trend analysis
+* Customer demographic analysis
+* Channel performance analysis
+* Key business insights
 
 ## Key Insights
 
-* Women contribute the majority (64%) of sales.
-* Amazon is the leading sales channel. 35% order is from Amazone
-* Maharashtra generates the highest sales revenue.which is 2.99 million.
-* 92% orders are successfully delivered.
+* Women contributed approximately 64% of total sales.
+* Amazon was the highest-performing sales channel.
+* Maharashtra generated the highest sales revenue.
+* Most orders were successfully delivered.
+* Sales varied across customer age groups and regions.
 
 ## Business Recommendations
 
-Based on the analysis of the SwiftCart Online Retail Sales Dataset, the following recommendations can help improve business performance:
+### Focus on Female Customers
 
-### 1. Focus on Female Customers
+Develop targeted campaigns and loyalty programs for the highest-contributing customer segment.
 
-Female customers contributed the majority of sales. The company should create targeted marketing campaigns, personalized offers, and loyalty programs for this customer segment.
+### Strengthen Top Channels
 
-### 2. Strengthen Top Sales Channels
+Invest more resources in high-performing channels while improving lower-performing ones.
 
-Amazon generated the highest number of orders. The business should continue investing in high-performing channels while exploring ways to improve performance on lower-performing platforms.
+### Expand in High-Revenue Regions
 
-### 3. Expand Presence in Top States
+Apply successful strategies from top-performing states to other growth markets.
 
-Maharashtra emerged as the highest revenue-generating state. Similar marketing and distribution strategies can be applied to other regions with growth potential.
+### Reduce Order Returns and Cancellations
 
-### 4. Reduce Order Cancellations and Returns
+Investigate operational issues that may affect customer satisfaction.
 
-Analyzing cancelled and returned orders can help identify operational issues and improve customer satisfaction.
+### Improve Inventory Planning
 
-### 5. Optimize Inventory Management
-
-Top-selling categories and products should be prioritized to prevent stock shortages and improve fulfillment efficiency.
-
-### 6. Seasonal Sales Planning
-
-Monthly sales trends indicate demand fluctuations throughout the year. The business can use these insights to plan promotions and inventory levels more effectively.
-
-### 7. Improve Customer Segmentation
-
-Different age groups show different purchasing patterns. Segment-specific marketing campaigns can improve customer engagement and sales performance.
+Maintain stock availability for top-selling products and categories.
 
 
+## Repository Contents
 
-## Dataset
-
-The project uses the SwiftCart Online Retail Sales Dataset containing customer, product, order, shipping, and sales information.
+| File                           | Description                 |
+| ------------------------------ | --------------------------- |
+| SwiftCart_Sales_Dashboard.xlsx | Interactive Excel Dashboard |
+| Dashboard_Screenshot.png       | Dashboard Preview           |
+| SwiftCart_EDA_Dashbord.ipynb | Data Analysis Notebook      |
+| Dataset_Sample                   | Sales Dataset               |
 
 ## Dashboard Preview
 
 ![Dashboard Preview](Dashboard_Screenshot.png)
 
+## Kaggle Dataset
+
+Dataset:
+https://www.kaggle.com/datasets/zohairbaloch/swiftcart-online-retail-sales-dataset
 
 ## Author
 
 Zohair Baloch
-Aspiring Data Analyst
+
+Aspiring Data Analyst | Excel | SQL | Data Visualization
