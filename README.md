@@ -1,4 +1,4 @@
-# 📊 SwiftCart Sales Analysis & Interactive Dashboard
+#  SwiftCart Sales Analysis & Interactive Dashboard
 
 ## Project Overview
 
